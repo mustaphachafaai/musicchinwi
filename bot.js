@@ -344,12 +344,12 @@ client.on('message', message => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : EX Clan`);
+      console.log(`Desert Bot- Script By : 你的母親將被用阿拉伯`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : 你的母親將被用阿拉伯`);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Music-Panda`,"http://twitch.tv/chinwi")
+client.user.setGame(`Music-Panda l By 你的母親將被用阿拉伯`,"http://twitch.tv/chinwi")
 client.user.setStatus("dnd")
 });
 
